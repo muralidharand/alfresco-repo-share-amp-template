@@ -1,1 +1,1 @@
-"# alfresco-disable-enable-download-action" 
+"# alfresco Repo Share AMP Template" 
